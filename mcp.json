@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "inbox-triage": {
+      "type": "http",
+      "url": "https://getinboxtriage.com/mcp"
+    }
+  }
+}
